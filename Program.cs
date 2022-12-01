@@ -9,6 +9,7 @@ casas decimais.*/
 instância da mesma classe.*/
 
 using System.Globalization;
+double pi = 3.14;
 
 Console.Write("Entre com o valor do raio: ");
 double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
