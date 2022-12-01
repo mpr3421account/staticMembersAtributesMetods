@@ -18,6 +18,7 @@ double volume = Volume(raio);
 
 Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
 Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
+Console.WriteLine("Valor de PI: " + pi);
 
 
 //Console.WriteLine("Valor de PI: " + );
